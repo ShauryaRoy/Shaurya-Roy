@@ -1,0 +1,4 @@
+/* Keep the hero name open and readable at display size. */
+.hero-content h1 {
+  letter-spacing: -0.02em;
+}
